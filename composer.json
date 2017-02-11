@@ -2,8 +2,7 @@
     "name": "hackathon/leipzig",
     "description": "N/A",
     "require": {
-        "php": "~5.4.11|~5.5.0",
-        "magento/framework": "0.1.0-alpha107",
+        "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
         "magento/magento-composer-installer": "*"
     },
     "type": "magento2-theme",
